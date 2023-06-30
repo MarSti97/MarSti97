@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcell</h1>
-<h3 align="center">Been programing for 7 months, loving it so far and am always looking for new opportunities to learn.</h3>
+<h3 align="center">Been programing for 8 months, loving it so far and am always looking for new opportunities to learn.</h3>
 
-- 🔭 I’m currently working on **42 Common Core: NetPractice, Cud3D, C++**
+- 🔭 I’m currently working on **42 Common Core: C++**
 
 - 🌱 I’m currently learning **C/C++ @ 42 Lisbon**
 
