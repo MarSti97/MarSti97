@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcell</h1>
-<h3 align="center">Been programing for 10 months, loving it so far and am always looking for new opportunities to learn.</h3>
+<h3 align="center">Software Engineer and Scrum Master at CTW for 3 years! Developing in C++</h3>
 
-- 🔭 I’m currently working on **42 Common Core: webserv and inception**
+- 🔭 I’m currently working on **Small personal projects with AI first development techniques**
 
-- 🌱 I’m currently learning **About web @ 42 Lisbon**
+- 🌱 I’m currently learning about **Software Architecture designs and Security**
 
 - 🤝 I’m looking for help with **learning more about blockchain and AI**
 
-- 📫 How to reach me **marcellstiedl@hotmail.com**
+- 👏🏼 My achievements so far are **Completing the 42 common core and becoming a Scrum Master on top of my development role**
 
 - ⚡ Fun fact **I used to be a professional dance artist.**
 
